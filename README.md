@@ -1,1 +1,1 @@
-# sec-week-python101
+# second week Course Python101
