@@ -45,7 +45,8 @@ All you need is a Linux system and a user account in it
 
 1. Create your own bin directory in your home directory: mkdir ~/bin, 
 2. Then use the following commands to add the string *export PATH="${PATH}:~/bin"* to the .bash_profile file. 
-```echo 'export PATH="${PATH}:~/bin"' >> ~/.bash_profile
+```
+echo 'export PATH="${PATH}:~/bin"' >> ~/.bash_profile
 ```
 3. Then use the following command to run ~/.bash_profile
 ```
